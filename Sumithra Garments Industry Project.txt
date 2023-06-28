@@ -1,0 +1,29 @@
+Objective 1: Identifying Existing Business Processes
+
+To gain insight into the core business processes at Sumithra Garments Pvt Limited, we conducted extensive research and analysis. We identified several key processes that form the backbone of the organization's day-to-day operations. These include:
+
+Supply Chain Management: This process encompasses the sourcing, procurement, and distribution of raw materials, ensuring a smooth flow of resources to meet production demands.
+Production and Manufacturing: Sumithra Garments Pvt Limited follows a systematic production process that involves designing, cutting, stitching, and quality control to ensure the timely delivery of high-quality garments.
+Inventory Management: Effective inventory management is crucial for optimizing stock levels, tracking product availability, and minimizing costs associated with overstocking or stockouts.
+Sales and Marketing: The company utilizes various marketing channels and sales strategies to promote its products, attract customers, and drive revenue.
+Financial Management: This process includes budgeting, accounting, and financial analysis to ensure the company's financial stability and compliance with regulatory requirements.
+Human Resources: The HR process covers recruitment, employee onboarding, performance evaluation, and training to foster a skilled and motivated workforce.
+These processes are documented through standard operating procedures (SOPs) and process maps, which serve as reference materials for employees. The documentation is regularly updated to incorporate any process improvements or changes.
+
+Objective 2: Analyzing the Flow of Information
+
+We examined the flow of information across different departments and teams at Sumithra Garments Pvt Limited to understand how communication and collaboration take place. Our findings revealed the following insights:
+
+Interdepartmental Communication: Information flows between departments through a combination of formal and informal channels such as emails, meetings, and digital collaboration tools.
+Team Collaboration: Teams utilize project management software and internal communication platforms to facilitate seamless collaboration, document sharing, and progress tracking.
+Challenges and Bottlenecks: We identified certain challenges and bottlenecks in the current information flow, such as delays in response time, information silos, and inefficient communication channels. To address these issues, we recommended implementing streamlined communication processes and promoting cross-departmental collaboration.
+To ensure data security and confidentiality, Sumithra Garments Pvt Limited has implemented robust cybersecurity measures, including firewalls, encrypted communication channels, and user access controls. Data integrity is maintained through regular backups, data validation protocols, and strict adherence to data handling policies.
+
+Objective 3: Assessing the Current IT Infrastructure
+
+In evaluating the IT infrastructure supporting Sumithra Garments Pvt Limited's operations, we examined the following aspects:
+
+Network and Hardware: The company has a well-established network infrastructure with robust servers, routers, and switches to support seamless connectivity and data transfer.
+Software Applications: Various software applications, including enterprise resource planning (ERP) systems, inventory management systems, and customer relationship management (CRM) software, are utilized to streamline operations and enhance productivity.
+Data Storage and Backup: The organization maintains a secure and scalable data storage system with regular backups to prevent data loss and ensure business continuity.
+IT Security: Robust security measures such as antivirus software, intrusion detection systems, and regular security audits are in place to protect the company's digital
